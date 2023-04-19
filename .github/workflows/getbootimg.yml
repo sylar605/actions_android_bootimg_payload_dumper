@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.3.31/miui_ALIOTH_21.3.31_25fc8f0d66_11.0.zip
+  ROM_URL: http://xiaomi.baishancdnx.cn/xdispatch3d8ceae477005329/bigota.d.miui.com/V14.0.7.0.TMACNXM/miui_ISHTAR_V14.0.7.0.TMACNXM_73f8314233_13.0.zip?bsreqid=2e53995bd7f7b479d302f88f16ffaed5&DPhost=xiaomi.baishancdnx.cn
   TZ: Asia/Shanghai
 
 jobs:
